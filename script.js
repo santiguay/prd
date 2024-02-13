@@ -6,7 +6,7 @@ const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "Yay, see you on the 18th!";
-  location.href = "https://wa.me/595985682647?text=Chi,20%te20%perdono.";
+  location.href = "https://ig.me/m/chesslike693";
     gif.src =
     "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
 });
